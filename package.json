@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/dennererthal01/package-test/issues"
   },
-  "homepage": "https://github.com/dennererthal01/package-test#readme"
+  "homepage": "https://github.com/dennererthal01/package-test#readme",
+  "dependencies": {
+    "fs-extra": "^7.0.0"
+  }
 }
