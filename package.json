@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "postinstall": "node copy-files.js"
+    "postpublish": "node copy-files.js"
   },
   "files": [
     "lib/*"
